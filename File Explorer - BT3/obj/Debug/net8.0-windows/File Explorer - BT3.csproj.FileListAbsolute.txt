@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File_Explorer___BT3.Form1.resources
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\bin\Debug\net8.0-windows\File Explorer - BT3.exe
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\bin\Debug\net8.0-windows\File Explorer - BT3.deps.json
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\bin\Debug\net8.0-windows\File Explorer - BT3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\bin\Debug\net8.0-windows\File Explorer - BT3.dll
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\bin\Debug\net8.0-windows\File Explorer - BT3.pdb
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.dll
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\refint\File Explorer - BT3.dll
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.pdb
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\File Explorer - BT3.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\File Explorer - BT3\File Explorer - BT3\obj\Debug\net8.0-windows\ref\File Explorer - BT3.dll
